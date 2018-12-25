@@ -1,0 +1,8 @@
+author: ben
+title: my-blog
+version: 4.0.0
+out: ./build
+publisher: fs
+
+blog:
+  publisher: fs
