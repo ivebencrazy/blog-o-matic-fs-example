@@ -1,6 +1,7 @@
 ---
 author: ben
-permalink: post-1
+id: post-1
+permalink: posts/post-1
 title: 'Post 1'
 created: 2018-12-21T23:14:01.893Z
 updated: 2018-12-21T23:14:01.893Z
@@ -14,14 +15,25 @@ borean *viribus* et munere. Fama est tam contemptor petiere moneri Autolycus; et
 nec momordit Cyclopum submovet, tenuitque sed? Molpeus Teucri sensit balteus
 mearum: in dolet iuvere ligno. Ut in ille, iam.
 
-    icioColdDelete.retina_asp_matrix = softwareBanner(officeWormCpm(
-            zeroOpticalOutput.subdirectoryVisualTooltip(ivr_odbc, 420573)),
-            target(internalArchiveHardening), kbps_igp);
-    uncRawDrop(rtfDashboard);
-    dual.install_kindle_cdma *= wiCharacter.chipset_twitter.rate(
-            delete_stick_infotainment(view, ripping * 4, database), 25 + asp,
-            perl);
-    dayData(expressBiometrics, adfWavelength / peopleware + hypertextWorm);
+```js
+icioColdDelete.retina_asp_matrix = softwareBanner(
+  officeWormCpm(
+    zeroOpticalOutput.subdirectoryVisualTooltip(ivr_odbc, 420573)
+  ),
+  target(internalArchiveHardening),
+  kbps_igp
+);
+
+uncRawDrop(rtfDashboard);
+
+dual.install_kindle_cdma *= wiCharacter.chipset_twitter.rate(
+  delete_stick_infotainment(view, ripping * 4, database),
+  25 + asp,
+  perl
+);
+
+dayData(expressBiometrics, adfWavelength / peopleware + hypertextWorm);
+```
 
 ## In nubibus casas inmotus te antro dentibus
 
