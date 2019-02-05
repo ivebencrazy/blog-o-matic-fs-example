@@ -29,7 +29,7 @@ Et sparsit fero clavam honore indicium poterunt verba: ferire si leves. [Mare
 fine vidit](http://dum-puta.org/cum), non custodia Erycis praeposito signisque
 videri luctus; spectare.
 
-![image](/images/image.png)
+![image](images/image.png)
 
 Miseri amor parabat Farfarus et diversa [quoque tulit](http://verbere.com/)
 expugnacior, totidem. Sed colla tantum, eripies tua! Mors non loco terra,
