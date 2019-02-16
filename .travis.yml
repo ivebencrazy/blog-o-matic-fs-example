@@ -1,0 +1,15 @@
+
+language: node_js
+sudo: false
+node_js:
+  - "stable"
+
+script: npm install -g blog-o-matic && blog publish
+
+deploy:
+  local_dir: build
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  on:
+branch: master

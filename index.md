@@ -1,0 +1,2 @@
+- [Post 1](posts/post-1)
+- [Post 2](posts/post-2)
