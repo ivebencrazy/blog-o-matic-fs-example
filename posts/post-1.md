@@ -3,6 +3,7 @@ author: ben
 id: post-1
 permalink: posts/post-1
 title: 'Post 1'
+published: true
 created: 2018-12-21T23:14:01.893Z
 updated: 2018-12-21T23:14:01.893Z
 ---
